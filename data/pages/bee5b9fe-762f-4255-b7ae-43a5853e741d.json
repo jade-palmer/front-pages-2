@@ -4,8 +4,147 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "this is a test to see if the front page actually shows up",
-          "highlight": "#ffffff"
+          "highlight": "#ffffff",
+          "text": "The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "highlight": "#ffffff",
+          "text": "These approaches include 1) new forms of historical and critical scholarly engagement; 2) digital preservation and aggregation techniques, asset management and infrastructure to support sustainable access; 3) techniques and tools for searching, visualizing, analyzing and enhancing critical engagement (for features relevant to humanities research and pedagogy); and 4) innovative ways of mobilizing digitized spoken and literary recordings within pedagogical, performative and public contexts."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "highlight": "#ffffff",
+          "text": "The Enough Said Reading Series was active in Montreal between 1995 and 1996, and in a few short years became a very big part of the spoken word scene in the city. This exhibition both provides a platform to host the videos while also offering unique insight into what the performers---many of whom have made a career through their writing and performances---feel about the events now. "
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "right"
+            },
+            {
+              "type": "paragraph",
+              "align": "right",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "right",
+              "children": [
+                {
+                  "text": "Gotham_Diamond-19941210",
+                  "link": "https://youtu.be/UQ20Kf3gCNk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://media.licdn.com/dms/image/v2/C5103AQHi-ceyo9sqcg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516289384135?e=2147483647&v=beta&t=-npa-m0GrCJfy-oG1_QiKEjA8cmJfBF6tSsUtdW-AiA",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -13,7 +152,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-12T20:35:31.277Z",
+  "updated_at": "2025-03-12T20:48:15.925Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
