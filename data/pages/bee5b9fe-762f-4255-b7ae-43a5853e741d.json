@@ -1,10 +1,20 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "highlight": "#000000"
+        }
+      ]
+    }
+  ],
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "jade-palmer",
-  "updated_by": "2025-03-12T20:06:28.123Z",
+  "updated_at": "2025-03-12T20:30:56.822Z",
+  "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
     "type": "home"
