@@ -23,15 +23,16 @@
       "children": [
         {
           "highlight": "#ffffff",
-          "text": "The Enough Said Reading Series was active in Montreal between 1995 and 1996, and in a few short years became a very big part of the spoken word scene in the city. This exhibition both provides a platform to host the videos while also offering unique insight into what the performers---many of whom have made a career through their writing and performances---feel about the events now. "
+          "text": "The Enough Said Reading Series was active in Montreal between 1995 and 1996, and in a few short years became a very big part of the spoken word scene in the city. This exhibition both provides a platform to host the videos while also offering unique insight into what the performers---many of whom have made a career through their writing and performances---feel about the events. "
         }
       ]
     },
     {
-      "type": "horizontal-separator",
+      "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "highlight": "#000000",
+          "text": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"
         }
       ]
     },
@@ -46,8 +47,8 @@
     {
       "type": "grid",
       "layout": [
-        2,
-        4
+        3,
+        3
       ],
       "children": [
         {
@@ -55,7 +56,7 @@
           "children": [
             {
               "type": "image",
-              "url": "https://piv-prod.s3.ca-central-1.amazonaws.com/public/styles/focal_point_2000x800/public/images/authors/bill-bissett--2.jpg.webp?VersionId=_EAWCoTVDZnkXvmkwh2Lbu3JHLW9M8II&itok=1GR-Ixes",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
               "children": [
                 {
@@ -67,17 +68,35 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Gotham_Diamond-19941211",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
                   "text": ""
                 }
               ]
             },
             {
               "type": "paragraph",
-              "align": "right",
               "children": [
                 {
-                  "text": "",
-                  "link": "https://youtu.be/UQ20Kf3gCNk"
+                  "text": "Performance_Poetry_Party-19951220",
+                  "bold": true
                 }
               ]
             }
@@ -87,7 +106,9 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
               "children": [
                 {
                   "text": ""
@@ -96,11 +117,10 @@
             },
             {
               "type": "paragraph",
-              "align": "left",
               "children": [
                 {
-                  "text": "Gotham_Diamond-19941210 ",
-                  "link": "https://youtu.be/UQ20Kf3gCNk"
+                  "text": "Skarstedt_Suderman-19950908",
+                  "bold": true
                 }
               ]
             },
@@ -109,18 +129,29 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "bissett_Nelson-19940202",
+                  "bold": true
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -144,7 +175,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-12T21:00:50.984Z",
+  "updated_at": "2025-03-12T21:30:37.660Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
