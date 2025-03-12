@@ -73,6 +73,19 @@
               ]
             },
             {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Including performances by Fortner Anderson,                                                Njacko Backo, Jason Camlot, and more."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -132,6 +145,22 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
@@ -174,7 +203,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-12T21:33:23.991Z",
+  "updated_at": "2025-03-12T21:35:29.461Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
