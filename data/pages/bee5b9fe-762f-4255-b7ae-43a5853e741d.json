@@ -54,41 +54,8 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ],
-              "align": "right"
-            },
-            {
-              "type": "paragraph",
-              "align": "right",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "right",
-              "children": [
-                {
-                  "text": "Gotham_Diamond-19941210",
-                  "link": "https://youtu.be/UQ20Kf3gCNk"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
               "type": "image",
-              "url": "https://media.licdn.com/dms/image/v2/C5103AQHi-ceyo9sqcg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516289384135?e=2147483647&v=beta&t=-npa-m0GrCJfy-oG1_QiKEjA8cmJfBF6tSsUtdW-AiA",
+              "url": "https://piv-prod.s3.ca-central-1.amazonaws.com/public/styles/focal_point_2000x800/public/images/authors/bill-bissett--2.jpg.webp?VersionId=_EAWCoTVDZnkXvmkwh2Lbu3JHLW9M8II&itok=1GR-Ixes",
               "size": "medium",
               "children": [
                 {
@@ -106,9 +73,34 @@
             },
             {
               "type": "paragraph",
+              "align": "right",
+              "children": [
+                {
+                  "text": "",
+                  "link": "https://youtu.be/UQ20Kf3gCNk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": "Gotham_Diamond-19941210 ",
+                  "link": "https://youtu.be/UQ20Kf3gCNk"
                 }
               ]
             },
@@ -152,7 +144,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-12T20:48:15.925Z",
+  "updated_at": "2025-03-12T21:00:50.984Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
