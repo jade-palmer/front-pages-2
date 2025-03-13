@@ -5,6 +5,39 @@
       "children": [
         {
           "highlight": "#ffffff",
+          "text": "In this version, viewers can see more photos and events at one given time, but the varying amounts of information given for each event makes them somewhat out of line with each other even when I add more white space underneath to try and make them in line. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "highlight": "#ffffff",
           "text": "The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond."
         }
       ]
@@ -97,6 +130,27 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Annotations include the AV description and the transcripts of a watch party held with Anne Diamond, Jason Camlot, and Mitsiko Miller. "
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "2025-04-04"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ]
@@ -177,7 +231,6 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "bold": true,
                       "text": "A compilation video featuring clips from ga press, Lollapalooza Book Launch, Skarstedt_Suderman, and Diamond_McGrail"
                     }
                   ]
@@ -190,6 +243,28 @@
                 {
                   "text": "1994-04-04",
                   "italic": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Annotations include the AV description only"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "italic": true,
+                  "text": ""
                 }
               ]
             },
@@ -245,7 +320,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-13T16:00:22.218Z",
+  "updated_at": "2025-03-13T16:34:24.627Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
