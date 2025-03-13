@@ -13,7 +13,67 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "BUT if they're super not in line, then that's kind of okay because it looks like it's on purpose lol just has to be the same amount of space under each one, and enough that it's clear which thumbnail the text is referring to "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "need to think about how much information will feasibly be on here, and how much it will change from event to event, which is reasonably a fair bit, like Swifty Lazar essentially only had the two of them and Lee, PPP has 15 people. So maybe it being staggered is fine. OR do we want all participant information on a separate page, "
+        },
+        {
+          "text": "like a description underneath the video?",
+          "bold": true
+        },
+        {
+          "text": " Maybe this page is just photos and links that direct to the main event page that has text underneath it "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "make an event "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "make a page and link to the whole event "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "can have text above or below "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "BUT people might want to know who is in the video before they click it, researchers looking for a particular person can just ctrl-f the main page rather than having to open up each individual one "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "may as well try it and see what it looks like "
         }
       ]
     },
@@ -320,7 +380,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-13T16:34:24.627Z",
+  "updated_at": "2025-03-13T16:53:27.235Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
