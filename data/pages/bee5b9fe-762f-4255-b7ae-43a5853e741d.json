@@ -451,35 +451,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-04-17, Joseph",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
-              "children": [
-                {
-                  "text": ""
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open mic performances by Norman Nawrocki, Justin McGrail, Steve \"Liquid\" Hawley, David J., and Steve Godin. "
+                    }
+                  ]
                 }
               ]
             },
@@ -505,7 +491,76 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "1995-06-26, It came from the 401",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Performances by Jill Battson, Nancy Dembowski, Stan Rogal, and Mike O'Connor. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Highlights Part 1",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2022-09-23, Oral History with Lee Gotham",
+                  "bold": true
                 }
               ]
             }
@@ -890,6 +945,28 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "1995-05-01, Stephens, Suderman, Diamond, and McGrail",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "No supporting or open mic performers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ]
@@ -901,6 +978,28 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1996-02-14, Lollapalooza Book Launch",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Performances by Lee Gotham, Adeena Karasick and Jill Battson. "
+                    }
+                  ]
                 }
               ]
             },
@@ -926,7 +1025,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Highlights Part 2",
+                  "bold": true
                 }
               ]
             }
@@ -954,7 +1054,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-16T19:43:14.677Z",
+  "updated_at": "2025-03-16T19:51:18.981Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
