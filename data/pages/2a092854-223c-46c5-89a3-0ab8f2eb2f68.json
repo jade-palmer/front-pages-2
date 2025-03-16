@@ -1105,14 +1105,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
@@ -1168,6 +1160,6 @@
   "slug": "front-page-no-list-of-performers",
   "created_at": "2025-03-16T20:18:49.499Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-16T20:33:28.489Z",
+  "updated_at": "2025-03-16T20:35:45.160Z",
   "updated_by": "jade-palmer"
 }
