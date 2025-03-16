@@ -331,17 +331,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-03-13, Karasick",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": ""
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open-mic performances by Vince Tinguely, Patrick Salah, Mitsiko Miller, David J., D. Holmes, and Justin McGrail. "
+                    }
+                  ]
                 }
               ]
             },
@@ -360,6 +364,68 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-25, Performance Poetry Party",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open mic performances by Hieronymus Borscht Nonet (Sam Shalabi and Unknown_Musician1), Fortner Anderson, Ian Ferrier, Endre Farkas, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poésie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Dee Smith, Norman Nawrocki, and Ian Stephens.  "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-04-03, Smith",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting performance by Joe De Paul. "
+                    }
+                  ]
                 }
               ]
             },
@@ -704,17 +770,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-03-20, Fluffy Pagan Echoes",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": ""
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open-mic performances by Edith's Mission (Ibolya [Ibi] Kaslik and Amy Millan), Patrick Salah, Kate Alsterlund, and Tom Chamberlain."
+                    }
+                  ]
                 }
               ]
             },
@@ -733,6 +803,68 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-27, Farkas and Nuttall      ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": " No supporting or open mic performers. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-04-10, ga press",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open mic performances by Golda Fried, Sandra Jeppesen, and Chris Bell. "
+                    }
+                  ]
                 }
               ]
             },
@@ -822,7 +954,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-16T19:37:51.754Z",
+  "updated_at": "2025-03-16T19:43:14.677Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
