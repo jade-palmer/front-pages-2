@@ -4,76 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "highlight": "#ffffff",
-          "text": "In this version, viewers can see more photos and events at one given time, but the varying amounts of information given for each event makes them somewhat out of line with each other even when I add more white space underneath to try and make them in line. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "BUT if they're super not in line, then that's kind of okay because it looks like it's on purpose lol just has to be the same amount of space under each one, and enough that it's clear which thumbnail the text is referring to "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "need to think about how much information will feasibly be on here, and how much it will change from event to event, which is reasonably a fair bit, like Swifty Lazar essentially only had the two of them and Lee, PPP has 15 people. So maybe it being staggered is fine. OR do we want all participant information on a separate page, "
-        },
-        {
-          "text": "like a description underneath the video?",
-          "bold": true
-        },
-        {
-          "text": " Maybe this page is just photos and links that direct to the main event page that has text underneath it "
-        }
-      ]
-    },
-    {
-      "type": "bulleted-list",
-      "children": [
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "make an event "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "make a page and link to the whole event "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "can have text above or below "
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "BUT people might want to know who is in the video before they click it, researchers looking for a particular person can just ctrl-f the main page rather than having to open up each individual one "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "may as well try it and see what it looks like "
+          "text": ""
         }
       ]
     },
@@ -160,27 +91,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Gotham_Diamond-19941211",
+                  "text": "1994-12-09, Lee Gotham and Ann Diamond",
                   "bold": true
                 }
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Featured performances by Lee Gotham and Anne Diamond, including Fortner Anderson, Njacko Backo, Jason Camlot, and Mitsiko Miller."
-                }
-              ]
-            },
-            {
               "type": "bulleted-list",
               "children": [
                 {
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "1995-12-01"
+                      "text": "Supporting and open mic performances by Beau Williamson, Jen Frankel, Vince Tinguely, Graham Olds, Ran Elfassy, Thoth Harris, Halina Berger, R. M. Vaughan, Scott Duncan, Justin McGrail, and Ran Elfassy."
                     }
                   ]
                 }
@@ -190,20 +113,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Annotations include the AV description and the transcripts of a watch party held with Anne Diamond, Jason Camlot, and Mitsiko Miller. "
-                }
-              ]
-            },
-            {
-              "type": "bulleted-list",
-              "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "2025-04-04"
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -229,34 +139,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Performance_Poetry_Party-19951220",
+                  "text": "1995-01-16, bissett and Nelson",
                   "bold": true
                 }
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": "A featured evening at Building Danse "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "55 avenue des Pins Ouest ",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "1995-12-05",
-                  "italic": true
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open mic performances by Scott Duncan, Halina Berger, and Justin McGrail."
+                    }
+                  ]
                 }
               ]
             }
@@ -279,7 +176,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Highlights_Part1",
+                  "text": "1995-01-09, Swifty Lazar",
                   "bold": true
                 }
               ]
@@ -291,29 +188,7 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "A compilation video featuring clips from ga press, Lollapalooza Book Launch, Skarstedt_Suderman, and Diamond_McGrail"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "1994-04-04",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "bulleted-list",
-              "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Annotations include the AV description only"
+                      "text": "Supporting and open mic performances by Halina Berger and Susan Flemming."
                     }
                   ]
                 }
@@ -351,8 +226,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "bissett_Nelson-19940202",
+                  "text": "1995-01-23, Wiernik and Anderson",
                   "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Supporting and open mic performances by Joelle Ciona, Fluffy Pagan Echoes (Victoria Stanton, Scott Duncan, Vince Tinguely), Ian Stephens, and Justin McGrail."
+                    }
+                  ]
                 }
               ]
             }
@@ -380,7 +268,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-13T16:53:27.235Z",
+  "updated_at": "2025-03-16T19:22:17.695Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
