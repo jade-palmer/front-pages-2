@@ -537,11 +537,15 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "bold": true,
-                  "text": ""
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Performances by Swifty Lazar (Todd Swift and Tom Walsh), bill bissett, Sharon H. Nelson, Ian Stephens, Fortner Anderson, Robert Allen, Douglas Isaac, ga press (Colin Christie and Corey Frost), Ian Ferrier, Steve Luxton, and Raymond Filip."
+                    }
+                  ]
                 }
               ]
             },
@@ -1029,6 +1033,19 @@
                   "bold": true
                 }
               ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Performances by Trevor John Ferrier, Njacko Backo, Groupe de Poésie Moderne, Sonja A. Skarstedt, Lynn Suderman, Phineas Flower Trio, Steve Godin, and Adeena Karasick."
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -1054,7 +1071,7 @@
   "created_at": "2025-03-12T20:06:28.123Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests 2",
-  "updated_at": "2025-03-16T19:55:01.749Z",
+  "updated_at": "2025-03-16T20:12:54.481Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
