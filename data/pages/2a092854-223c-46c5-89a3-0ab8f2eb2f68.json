@@ -1040,7 +1040,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1995-05-01, Ian Stephens, Lynn Suderman, Ann Diamond, and Justin McGrail",
+                  "text": "1995-05-01, Ian Stephens, Lynn Suderman, Ann Diamond, Justin McGrail",
                   "bold": true
                 }
               ]
@@ -1085,6 +1085,14 @@
                 {
                   "text": "1996-02-14, Lollapalooza Book Launch",
                   "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -1160,6 +1168,6 @@
   "slug": "front-page-no-list-of-performers",
   "created_at": "2025-03-16T20:18:49.499Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-16T20:35:45.160Z",
+  "updated_at": "2025-03-17T21:50:21.782Z",
   "updated_by": "jade-palmer"
 }
