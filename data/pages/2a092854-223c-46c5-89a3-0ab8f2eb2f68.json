@@ -1160,14 +1160,14 @@
       ]
     }
   ],
-  "title": "Front Page No List of Performers",
+  "title": "Two Columns No List of Performers",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "front-page-no-list-of-performers",
+  "slug": "two-columns-no-list-of-performers",
   "created_at": "2025-03-16T20:18:49.499Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-17T21:50:21.782Z",
+  "updated_at": "2025-03-17T21:50:51.298Z",
   "updated_by": "jade-palmer"
 }
