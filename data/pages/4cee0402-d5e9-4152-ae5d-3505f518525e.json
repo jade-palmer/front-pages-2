@@ -59,6 +59,41 @@
           "type": "column",
           "children": [
             {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1994-12-09, Lee Gotham and Ann Diamond",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Beau Williamson, Jen Frankel, Vince Tinguely, Graham Olds, Ran Elfassy, Thoth Harris, Halina Berger, R. M. Vaughan, Scott Duncan, Justin McGrail, and Ran Elfassy."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -71,6 +106,49 @@
         {
           "type": "column",
           "children": [
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-01-09, Swifty Lazar",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Halina Berger and Susan Flemming."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "paragraph",
               "children": [
@@ -100,6 +178,6 @@
   "slug": "two-columns-with-list-of-performers-horizont",
   "created_at": "2025-03-24T17:42:00.621Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-24T17:42:00.621Z",
+  "updated_at": "2025-03-24T17:47:41.437Z",
   "updated_by": "jade-palmer"
 }
