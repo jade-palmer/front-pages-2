@@ -440,6 +440,31 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "1995-04-03, Dee Smith",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting performance by Joe De Paul."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ]
@@ -898,6 +923,14 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -917,6 +950,31 @@
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-04-10, ga press",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Golda Fried, Sandra Jeppesen, and Chris Bell."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -988,6 +1046,6 @@
   "slug": "two-columns-with-list-of-performers-horizont",
   "created_at": "2025-03-24T17:42:00.621Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-24T18:28:30.652Z",
+  "updated_at": "2025-03-24T18:33:02.502Z",
   "updated_by": "jade-palmer"
 }
