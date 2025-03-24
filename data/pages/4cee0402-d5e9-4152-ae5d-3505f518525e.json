@@ -209,14 +209,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-02-13, Benefit Part 1",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Robert Allen, Douglas Isaac, and Anne Stone."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -245,14 +252,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-02-20, Njacko Backo and Groupe de Poésie Moderne",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting performance by Trevor John Ferrier."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -271,6 +285,117 @@
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-06, Phineas Flower Trio and Steve Godin Part 1",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Open-mic performance by Ran Elfassy."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-13, Adeena Karasick",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open-mic performances by Vince Tinguely, Patrick Salah, Mitsiko Miller, David J., D. Holmes, and Justin McGrail."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-25, Performance Poetry Party",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Hieronymus Borscht Nonet (Sam Shalabi and Unknown_Musician1), Fortner Anderson, Ian Ferrier, Endre Farkas, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poésie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Dee Smith, Norman Nawrocki, and Ian Stephens."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -502,6 +627,14 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -531,14 +664,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-02-13, Benefit Part 2",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Raymond Filip, Colin Christie, Corey Frost, Endre Farkas, Sharon H. Nelson, Steve Luxton, Ian Ferrier, and Sonja A. Skarstedt."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -567,14 +707,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "1995-02-27, Sonja A. Skarstedt and Lynn Suderman",
+                  "bold": true
                 }
               ]
             },
             {
-              "type": "image",
-              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              "size": "medium",
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open-mic performances by Justin McGrail, Patrick Salah, Stephen Edgar, Sandra Jeppesen, Mitsiko Miller, and Jacob Landesman."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -593,6 +740,117 @@
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-06, Phineas Flower Trio and Steve Godin Part 2",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open-mic performances by Mistiko Miller and Justin McGrail."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-20, Fluffy Pagan Echoes",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open-mic performances by Edith's Mission (Ibolya [Ibi] Kaslik and Amy Millan), Patrick Salah, Kate Alsterlund, and Tom Chamberlain."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-03-27, Endre Farkas and Suzanne Nuttall",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No supporting or open mic performers."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -682,6 +940,6 @@
   "slug": "two-columns-with-list-of-performers-horizont",
   "created_at": "2025-03-24T17:42:00.621Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-24T18:02:17.574Z",
+  "updated_at": "2025-03-24T18:12:50.248Z",
   "updated_by": "jade-palmer"
 }
