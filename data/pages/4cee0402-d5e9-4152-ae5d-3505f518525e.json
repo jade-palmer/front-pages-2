@@ -368,14 +368,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -996,6 +988,6 @@
   "slug": "two-columns-with-list-of-performers-horizont",
   "created_at": "2025-03-24T17:42:00.621Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-24T18:26:29.996Z",
+  "updated_at": "2025-03-24T18:28:30.652Z",
   "updated_by": "jade-palmer"
 }
