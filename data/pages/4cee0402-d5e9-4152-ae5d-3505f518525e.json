@@ -115,6 +115,31 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "1995-01-16, bill bissett and Sharon H. Nelson",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Scott Duncan, Halina Berger, and Justin McGrail."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ]
@@ -123,6 +148,31 @@
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-01-30, Victoria Stanton and Ian Stephens",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Matthew Legault, Shaughnessy Bishop-Stall, Thoth Harris, Steve Godin, and Justin McGrail."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -387,6 +437,31 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "1995-01-23, Neil Wiernik and Fortner Anderson",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting and open mic performances by Joelle Ciona, Fluffy Pagan Echoes (Victoria Stanton, Scott Duncan, Vince Tinguely), Ian Stephens, and Justin McGrail."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ]
@@ -395,6 +470,31 @@
               "type": "image",
               "url": "https://plus.unsplash.com/premium_photo-1691972961799-b6eb3cd02a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1995-02-06, EJ Brulé",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Open mic performance by Steve \"Liquid\" Hawley."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -574,6 +674,6 @@
   "slug": "two-columns-with-list-of-performers-horizont",
   "created_at": "2025-03-24T17:42:00.621Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-03-24T17:55:25.692Z",
+  "updated_at": "2025-03-24T17:59:49.847Z",
   "updated_by": "jade-palmer"
 }
