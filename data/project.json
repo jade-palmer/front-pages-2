@@ -8,7 +8,7 @@
   "project": {
     "github_org": "jade-palmer",
     "is_private": false,
-    "title": "Front Page Tests Two Columns",
+    "title": "Front Page Tests Two Columns a",
     "description": "Making sample front pages with two columns and thumbnails, and either with or without the detailed list of performer names. ",
     "language": "en",
     "slug": "front-pages-2",
@@ -22,7 +22,7 @@
       "tags": []
     },
     "created_at": "2025-03-12T20:06:28.104Z",
-    "updated_at": "2025-04-01T21:12:51.692Z",
+    "updated_at": "2025-04-28T20:50:00.407Z",
     "generate_pages_site": true
   },
   "is_private": false
